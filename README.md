@@ -1,5 +1,7 @@
 # Automated File Organizer 🗂️
 
+**INTERNID:** CITS8323
+
 A fast, lightweight, and automated Python script designed to instantly tidy up messy directories (like your Downloads or Desktop folder). It scans the specified directory and automatically moves files into categorized subfolders based on their file extensions.
 
 ## Features
